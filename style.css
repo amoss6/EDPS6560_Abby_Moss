@@ -16,4 +16,6 @@
 	--main-color-dark3: #769bb3;
 }
 
-h1{color: var(--green);}
+h1{font-family: 'Montserrat', sans-serif; color: var(--green);}
+
+p{font-family: 'Raleway', sans-serif;}
