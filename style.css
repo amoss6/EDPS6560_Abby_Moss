@@ -1,1 +1,19 @@
+:root {
+	/* Fonts */
+	--main-font-primary: "Roboto", sans-serif;
+	--main-font-secondary: "Montserrat", sans-serif;
+	--main-font-tertiary: "Comfortaa", cursive;
+    
+	/* Colors */
+	--green: #104528;
+	--main-color-white: #e9f0f2;
+	--main-color-black: #0d0d0d;
+	--main-color-light: #5ef2ad;
+	--main-color-dark: #45735d;
+	--main-color-light2: #f38888;
+	--main-color-dark2: #d27575;
+	--main-color-light3: #a0d3f2;
+	--main-color-dark3: #769bb3;
+}
 
+h1{color: var(--green);}
