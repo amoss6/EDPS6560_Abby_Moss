@@ -16,4 +16,4 @@ h1, h2, h3 {font-family: 'Montserrat', sans-serif; color: var(--green); text-tra
 
 p{font-family: 'Raleway', sans-serif;}
 
-#menu{font-family: 'Montserrat', sans-serif; color: var(--gray-blue);}
+.menu{font-family: 'Montserrat', sans-serif; color: var(--gray-blue);}
