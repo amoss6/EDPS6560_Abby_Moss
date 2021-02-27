@@ -12,7 +12,9 @@
 	--gray-blue: #769bb3;
 }
 
-h1, h2, h3 {font-family: 'Montserrat', sans-serif; color: var(--green); text-transform: bold;}
+h1, h2, {font-family: 'Montserrat', sans-serif; color: var(--green); text-transform: bold;}
+
+h3{{font-family: 'Montserrat', sans-serif; color: var(--gray-blue); text-transform: bold;}
 
 p{font-family: 'Raleway', sans-serif;}
 
