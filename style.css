@@ -10,6 +10,7 @@
 	--black: #0d0d0d;
 	--pink: #d27575;
 	--gray-blue: #769bb3;
+	--light-gray: #C9D6DD;
 }
 
 h1, h2{font-family: 'Montserrat', sans-serif; color: var(--green); text-transform: bold;}
@@ -20,4 +21,6 @@ p{font-family: 'Raleway', sans-serif;}
 
 .menu{font-family: 'Montserrat', sans-serif; color: var(--gray-blue);}
 
-.center {height: 200px; position: relative;}
+.center{height: 200px; position: relative;}
+
+.title{font-family: 'Montserrat', sans-serif; color: var(--green); background-color: var(--light-gray);}
