@@ -24,3 +24,5 @@ p{font-family: 'Raleway', sans-serif;}
 .center{height: 200px; position: relative;}
 
 .title{font-family: 'Montserrat', sans-serif; color: var(--green);}
+
+div{background: var(--light-gray);}
