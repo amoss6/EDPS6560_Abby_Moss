@@ -15,11 +15,11 @@
 
 h1, h2{font-family: 'Montserrat', sans-serif; color: var(--green); text-transform: bold;}
 
-h3{font-family: 'Montserrat', sans-serif; color: var(--gray-blue); text-transform: bold; margin-right: 60px; margin-left: 60px;}
+h3{font-family: 'Montserrat', sans-serif; color: var(--gray-blue); text-transform: bold; margin-right: 100px; margin-left: 100px;}
 
 p{font-family: 'Raleway', sans-serif;
-  margin-right: 60px;
-  margin-left: 60px;}
+  margin-right: 40px;
+  margin-left: 40px;}
 
 .menu{font-family: 'Montserrat', sans-serif; color: var(--green); background-color: var(--light-gray);}
 
