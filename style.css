@@ -17,7 +17,9 @@ h1, h2{font-family: 'Montserrat', sans-serif; color: var(--green); text-transfor
 
 h3{font-family: 'Montserrat', sans-serif; color: var(--gray-blue); text-transform: bold;}
 
-p{font-family: 'Raleway', sans-serif;}
+p{font-family: 'Raleway', sans-serif;
+  margin-right: 80px;
+  margin-left: 80px;}
 
 .menu{font-family: 'Montserrat', sans-serif; color: var(--green); background-color: var(--light-gray);}
 
