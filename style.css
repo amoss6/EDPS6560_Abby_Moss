@@ -19,8 +19,8 @@ h3{font-family: 'Montserrat', sans-serif; color: var(--gray-blue); text-transfor
 
 p{font-family: 'Raleway', sans-serif;}
 
-.menu{font-family: 'Montserrat', sans-serif; color: var(--gray-blue);}
+.menu{font-family: 'Montserrat', sans-serif; color: var(--green); background-color: var(--light-gray);}
 
 .center{height: 200px; position: relative;}
 
-.title{font-family: 'Montserrat', sans-serif; color: var(--green); background-color: var(--light-gray);}
+.title{font-family: 'Montserrat', sans-serif; color: var(--green);}
