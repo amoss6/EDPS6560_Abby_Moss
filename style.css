@@ -27,4 +27,6 @@ p{font-family: 'Raleway', sans-serif;
 
 .title{font-family: 'Montserrat', sans-serif; color: var(--green);}
 
+.job{font-family: 'Montserrat', sans-serif; color: var(--green); width: 300px; height: 300px; padding: 50px; border: 20px solid var(--green);}
+
 #menu{font-family: 'Montserrat', sans-serif; color: var(--green); background-color: var(--light-gray);}
