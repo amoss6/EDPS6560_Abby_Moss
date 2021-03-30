@@ -13,7 +13,7 @@
 	--light-gray: #C9D6DD;
 }
 
-h1, h2{font-family: 'Montserrat', sans-serif; color: var(--green); text-transform: bold;}
+h1{font-family: 'Montserrat', sans-serif; color: var(--green); text-transform: bold;}
 
 h3{font-family: 'Montserrat', sans-serif; color: var(--gray-blue); text-transform: bold; margin-right: 150px; margin-left: 150px;}
 
