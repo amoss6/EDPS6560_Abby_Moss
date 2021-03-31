@@ -13,20 +13,18 @@
 	--light-gray: #C9D6DD;
 }
 
-h1, h2{font-family: 'Montserrat', sans-serif; color: var(--green); text-transform: bold;}
+h1, h2{font-family: 'Montserrat', sans-serif; color: var(--green); text-transform: bold; margin-right: 150px; margin-left: 150px;}
 
-h3{font-family: 'Montserrat', sans-serif; color: var(--gray-blue); text-transform: bold; margin-right: 100px; margin-left: 100px;}
+h3{font-family: 'Montserrat', sans-serif; color: var(--gray-blue); text-transform: bold; margin-right: 150px; margin-left: 150px;}
 
 p{font-family: 'Raleway', sans-serif;
-  margin-right: 100px;
-  margin-left: 100px;}
+  margin-right: 150px;
+  margin-left: 150px;}
 
 .menu{font-family: 'Montserrat', sans-serif; color: var(--green); background-color: var(--light-gray);}
 
-.center{height: 200px; position: relative;}
-
 .title{font-family: 'Montserrat', sans-serif; color: var(--green);}
 
-.job{font-family: 'Montserrat', sans-serif; color: var(--green); width: 320px; height: 320px; padding: 30px; border: 10px solid var(--green); align-items: center}
+.job{font-family: 'Montserrat', sans-serif; color: var(--green); width: 320px; height: 320px; padding: 30px; border: 10px solid var(--green); }
 
-#menu{font-family: 'Montserrat', sans-serif; background-color: var(--light-gray); color: var(--green);}
+#menu{font-family: 'Montserrat', sans-serif; background-color: var(--light-gray); color: var(--green); }
