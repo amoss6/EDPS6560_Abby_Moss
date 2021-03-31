@@ -31,7 +31,7 @@ p{font-family: 'Raleway', sans-serif;
 
 .form{font-family: 'Montserrat', sans-serif; font-size: 17px; color: var(--green); margin-right: 90px; margin-left: 90px;}
 
-th, td {padding: 3px}
+th, td {padding: 3px; font-family: 'Montserrat', sans-serif; color: var(--green);}
 
 input[type=submit] {
   background-color: var(--gray-blue);
