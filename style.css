@@ -28,5 +28,3 @@ p{font-family: 'Raleway', sans-serif;
 .job{font-family: 'Montserrat', sans-serif; color: var(--green); width: 320px; height: 320px; padding: 30px; border: 10px solid var(--green); }
 
 #menu{font-family: 'Montserrat', sans-serif; background-color: var(--light-gray); color: var(--green); }
-
-.picture{height="320" width="auto" border: 10px solid var(--green);}
