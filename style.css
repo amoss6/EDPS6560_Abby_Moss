@@ -19,9 +19,9 @@ h3{font-family: 'Montserrat', sans-serif; color: var(--gray-blue); text-transfor
 
 p{font-family: 'Raleway', sans-serif;}
 
-#list{font-family: 'Raleway', sans-serif; padding-left: 150px}
+.list{font-family: 'Raleway', sans-serif; padding-left: 150px;}
 
-#listtitle{font-family: 'Raleway', sans-serif; padding-left: 150px; color: var(--green); font-size: 22px}
+.listtitle{font-family: 'Raleway', sans-serif; padding-left: 150px; color: var(--green); font-size: 22px;}
 
 .title{font-family: 'Montserrat', sans-serif; color: var(--green);}
 
@@ -37,7 +37,7 @@ th, td {padding: 3px; font-family: 'Montserrat', sans-serif; color: var(--green)
 
 input[type=submit] {
   background-color: var(--gray-blue);
-  color: white;
+  color: var(--white);
   padding: 4px 10px;
   border: none;
   border-radius: 4px;
