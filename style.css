@@ -19,9 +19,13 @@ h3{font-family: 'Montserrat', sans-serif; color: var(--gray-blue); text-transfor
 
 p{font-family: 'Raleway', sans-serif;}
 
+.list{font-family: 'Raleway', sans-serif; padding-left: 150px}
+
+.listtitle{font-family: 'Raleway', sans-serif; padding-left: 150px; color: var(--green); font-size: 22px}
+
 .title{font-family: 'Montserrat', sans-serif; color: var(--green);}
 
-.job{font-family: 'Montserrat', sans-serif; color: var(--white); width: 500px; height: 600px; padding: 30px; border: 10px solid var(--green); font-size: 50px}
+.job{font-family: 'Montserrat', sans-serif; color: var(--white); width: 500px; height: 600px; padding: 40px; padding-left: 60px; border: 10px solid var(--green); font-size: 51px}
 
 #menu{font-family: 'Montserrat', sans-serif; background-color: var(--light-gray); color: var(--green); }
 
