@@ -19,13 +19,13 @@ h3{font-family: 'Montserrat', sans-serif; color: var(--gray-blue); text-transfor
 
 p{font-family: 'Raleway', sans-serif;}
 
-#list{font-family: 'Raleway', sans-serif; padding-left: 150px;}
+.list{font-family: 'Raleway', sans-serif; text-align: left; margin-left: 80px; margin-right: auto}
 
-#listtitle{font-family: 'Raleway', sans-serif; padding-left: 150px; color: var(--green); font-size: 22px;}
+.listtitle{font-family: 'Raleway', sans-serif; color: var(--green); font-size: 22px; text-align: center;}
 
 .title{font-family: 'Montserrat', sans-serif; color: var(--green);}
 
-.job{font-family: 'Montserrat', sans-serif; color: var(--white); width: 500px; height: 600px; padding: 40px; padding-left: 60px; border: 10px solid var(--green); font-size: 51px}
+.job{font-family: 'Montserrat', sans-serif; color: var(--white); font-size: 51px}
 
 #menu{font-family: 'Montserrat', sans-serif; background-color: var(--light-gray); color: var(--green); }
 
@@ -37,7 +37,7 @@ th, td {padding: 3px; font-family: 'Montserrat', sans-serif; color: var(--green)
 
 input[type=submit] {
   background-color: var(--gray-blue);
-  color: var(--white);
+  color: white;
   padding: 4px 10px;
   border: none;
   border-radius: 4px;
@@ -59,3 +59,15 @@ nav ul li a {
   margin: 0 10px;}
 
 nav ul li a:hover {color: var(--green);}
+
+
+.flexbox-container{
+    display: flex;
+    justify-content: space-around;
+    margin-left: 100px;
+    margin-right: 100px;
+    height: auto;
+    flex-wrap: wrap;
+}
+
+.flexbox-item{width: 450px; height: auto; margin: 10px;}
