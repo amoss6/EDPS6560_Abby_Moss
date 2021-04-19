@@ -65,7 +65,6 @@ nav ul li a:hover {color: var(--green);}
     display: flex;
     justify-content: space-around;
     height: auto;
-    flex-wrap: wrap;
 }
 
 .flexbox-item{width: 450px; height: auto; margin: 10px;}
